@@ -1,0 +1,51 @@
+body{
+    font-family: 'Outfit', sans-serif;
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(65,80,107,1) 0%, rgb(24, 37, 49) 100%);;
+    color: white;
+}
+nav{
+    background: rgb(144,246,215);
+    background: linear-gradient(90deg, rgba(144,246,215,1) 0%, rgba(113,150,164,1) 100%);
+    font-weight:bold;
+    color: #263849;
+}
+p{
+    font-size: x-large;
+}
+h1{
+    font-weight:bolder;
+}
+h2{
+    font-weight:bold;
+}
+.contacto{
+    background: rgb(65,80,107);
+    background: linear-gradient(180deg, rgba(65,80,107,1) 0%, rgba(38,56,73,1) 100%);;
+}
+.capsula1{
+    font-weight: bold;
+}
+.capsula2{
+    font-weight: lighter;
+}
+.btn-primary{
+    background-color: #263849;
+    border-color: rgb(144,246,215);
+}
+footer{
+    background: rgb(144,246,215);
+    background: linear-gradient(90deg, rgba(144,246,215,1) 0%, rgba(113,150,164,1) 100%);
+    color: #263849;
+}
+.seguime{
+    font-size: large;
+    font-weight: bold;
+}
+.copy{
+    font-size:medium;
+
+}
+a{
+    color: #263849;
+}
